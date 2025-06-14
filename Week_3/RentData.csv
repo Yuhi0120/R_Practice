@@ -1,0 +1,51 @@
+No,Location,Rent money,Area,Age,Distance from station,Room layout,Structure
+1,Nishi Waseda,93000,31.73,0,3,1K,Reinforced concrete
+2,Tsurumaki,94000,30,0,6,1K,Steel frame
+3,Bentencho,82000,18.11,0,5,1R,Wooden
+4,Bentencho,82000,18.49,0,5,1R,Wooden
+5,Tsurumaki,82000,19.53,2,7,1K,Reinforced concrete
+6,Nishi Waseda,110500,28.98,1,5,1DK,Steel frame
+7,Haramachi,112000,25.43,1,1,1K,Reinforced concrete
+8,Tsurumaki,82000,20.37,2,7,1K,Reinforced concrete
+9,Tsurumaki,90000,24.27,3,8,1K,Steel frame
+10,Tsurumaki,86000,25.08,2,8,1K,Reinforced concrete
+11,Enokicho,103000,26.14,2,7,1K,Reinforced concrete
+12,Tsurumaki,90000,24.27,3,8,1K,Steel frame
+13,Sekiguchi,101500,26.09,4,10,1K,Reinforced concrete
+14,Takadanobaba,81000,22.97,3,5,1R,Reinforced concrete
+15,Babashita,82000,22.22,4,2,1K,Steel frame
+16,Yamabuki-machi,89000,19.2,2,6,1R,Reinforced concrete
+17,Bentencho,116000,32.21,5,5,1DK,Reinforced concrete
+18,Nishi Waseda,68500,10.12,0,9,1R,Wooden
+19,Tsurumaki,102000,25,4,7,1K,Reinforced concrete
+20,Tsurumaki,62000,11.19,0,7,1R,Wooden
+21,Toyama,89000,30.94,6,5,1K,Steel frame
+22,Nishi Waseda,101000,30.43,4,1,1K,Reinforced concrete
+23,Tsurumaki,83000,22.34,7,2,1K,Reinforced concrete
+24,Totsuka Town,88000,23.75,7,3,1K,Reinforced concrete
+25,Tsurumaki,79000,17.4,7,7,1R,Reinforced concrete
+26,Nishi Waseda,85300,23.85,9,12,1K,Reinforced concrete
+27,Waseda Town,85000,20.25,9,1,1K,Reinforced concrete
+28,Waseda Town,75000,22.55,7,6,1R,Reinforced concrete
+29,Tsurumaki,75000,22.55,7,6,1R,Reinforced concrete
+30,Waseda Town,116000,34.16,1,6,1K,Reinforced concrete
+31,Haramachi,96000,25.66,5,2,1K,Reinforced concrete
+32,Toyama,77000,20.37,9,4,1K,Reinforced concrete
+33,Meshidai,87000,25.29,8,6,1R,Wooden
+34,Bentencho,84500,20.72,11,5,1K,Reinforced concrete
+35,Takada,75000,21.87,9,6,1K,Steel frame
+36,Nishi Waseda,77000,22.5,13,1,1K,Reinforced concrete
+37,Sekiguchi,74000,22.19,14,9,1K,Reinforced concrete
+38,Sekiguchi,69000,19.94,12,7,1K,Reinforced concrete
+39,Bentencho,77000,20.49,15,5,1K,Reinforced concrete
+40,Wakamatsu,119000,30.41,11,3,1DK,Reinforced concrete
+41,Waseda Town,75000,18.61,14,2,1R,Reinforced concrete
+42,Sekiguchi,69000,19.28,13,7,1K,Reinforced concrete
+43,Tsurumaki,66500,20.88,10,6,1K,Reinforced concrete
+44,Yanagi,78500,22.12,10,2,1K,Reinforced concrete
+45,Toyama,77000,19.4,12,5,1K,Wooden
+46,Bentencho,70000,18.57,13,5,1K,Wooden
+47,Tsurumaki,64000,17.1,14,6,1K,Steel frame
+48,Meshidai,69000,22,15,11,1K,Steel frame
+49,Takada,70000,22.6,16,15,1K,Steel frame
+50,Nishi Waseda,64000,18.12,18,1,1K,Reinforced concrete
